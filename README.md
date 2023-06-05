@@ -7,7 +7,7 @@ Words on Bitcoin is a project designed to highlight the interactivity and compos
 
 
 ## What's New?
-The Generative ORC-721 Protocol lends itself by default to generating a composite image made of stacked layers creating a unified image, such as a pfp. Words on Bitcoin explores the idea of dispersing the position of the images, in effect creating multiple images, to allow more complex composites - such as words. This is an attempt at maximum customization while working within the stremalined ORC-721 protocol.
+The Generative ORC-721 Protocol lends itself by default to generating a composite of stacked layers creating a unified image, such as a pfp. Words on Bitcoin explores the idea of dispersing the position of the images, in effect creating multiple images, to allow more complex composites - such as words. This is an attempt at maximum customization while working within the stremalined ORC-721 protocol.
 
 
 **Examples (102px x 32px)**
