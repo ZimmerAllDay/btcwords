@@ -92,9 +92,9 @@ Words on Bitcoin are inscribed using the standard Generative ORC-721 JSON format
 
 # Additional Notes
 
-> Remember that the Generative ORC-721 Protocol is experimental. As of now, there is no way to index the blockchain to scan for all valid inscriptions from any collection, although there are currently beta validators available for individual collections. For more information about the progress of ORC-721 developments, see the [inscribes/inscribes public repp](https://github.com/inscribes/inscribes)
+> The Generative ORC-721 Protocol and all projects built with it are experimental. Currently, there is no way to index the blockchain to scan for all valid inscriptions from any collection, although there are beta validators available for individual collections. For more information or to contribute to the development of the ORC-721 ecosystem, read the full Generative Art ORC-721 Github linked above, or join the conversation in the [Ordinal Punks discord](https://discord.gg/FTW9UDqv) in the Generative-orc-721 channel.
 
-> Do not inscribe these if you are seeking financial gain
+> Do NOT inscribe these if you are seeking financial gain
 
-> Do inscribe these if you are interested in experimenting with new ways to work with data sources stored on the bitcoin blockchain
+> DO inscribe these if you want to experiment with data sources stored on the bitcoin blockchain
 
