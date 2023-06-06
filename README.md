@@ -1,6 +1,8 @@
 # Words on Bitcoin
 A collector created ORC-721 project
 
+> "These will be worthless. Use at your own risk." - [@domodata](https://twitter.com/domodata)
+
 ## Introduction
 Words on Bitcoin seeks to highlight the interactivity and composability possible with the [Generative ORC-721 Protocol](https://github.com/ordbase/generative-orc-721) developed by 
 @geraldb. Creators can compose any word/character combination, 5 characters or less, and select a background color (if desired) from the [btc_words_spritesheet.png](./btc_words_spritesheet.png). Inscriptions are made using the standard ORC-721 JSON format.
