@@ -25,8 +25,9 @@ Unlike a typical grid shaped spritesheet (ex. 10 x 10), the [btc_words_spriteshe
 ![image file](./demo_images/btc_words_spritesheet_wtbg.png)
 (white background imposed for visibility)
 
+> **The spritesheet was inscribed as inscription [#11034266](https://ordinals.com/inscription/c1805b21d5fb0be5d310d964735333f7ae806377220e0aa6e8147522199a306ei0)**
 
-This may sound intimidating at first, but the logic is straightforward:
+The logic is straightforward:
 
 **Row 1:**        27 background colors
 
@@ -86,11 +87,12 @@ Words on Bitcoin are inscribed using the standard Generative ORC-721 JSON format
 **Notes**
 - Before inscribing, BE SURE to check the validity of your JSON using a [JSON validator](https://jsonlint.com/)
 
-- To help identify the correct sprites, use this character spec cheat sheet:
+- To help identify the correct sprites ("g" values), use the [public image previewer](https://ordbase.github.io/generative-orc-721/btcwords/)
+
+- Alternatively, use this character spec cheat sheet:
 
 ![image_file](./letter_specs.png)
 
-- Alternatively, use the [public image previewer](https://ordbase.github.io/generative-orc-721/btcwords/)
 
 # Additional Notes
 
@@ -99,4 +101,3 @@ Words on Bitcoin are inscribed using the standard Generative ORC-721 JSON format
 > Do NOT inscribe these if you are seeking financial gain
 
 > DO inscribe these if you want to experiment with data sources stored on the bitcoin blockchain
-
