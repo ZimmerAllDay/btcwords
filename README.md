@@ -24,13 +24,13 @@ Unlike a typical grid shaped spritesheet (10 x 10 ex), the [btc_words_spriteshee
 (white background imposed for visibility)
 
 
-While this sounds intimidating at first, the logic is as follows:
+This may sound intimidating at first, but the logic is straightforward:
 
-**Row 1:**       27 background colors
+**Row 1:**        27 background colors
 
-**Row 2:**       All 26 capitalized letters of the English alphabet plus the '$' symbol / 1st letter position
+**Row 2:**        All 26 capitalized letters of the English alphabet plus the '$' symbol / 1st letter position
 
-**Rows 3 - 6:**  All 26 lower case letters of the English alphabet plus a special character / 2nd - 5th letter positions
+**Rows 3 - 6:**   All 26 lower case letters of the English alphabet plus a special character / 2nd - 5th letter positions
 
 
 **Example individual letter tiles in 8x**
