@@ -3,11 +3,11 @@ A collector created ORC-721 project
 
 ## Introduction
 Words on Bitcoin is a project designed to highlight the interactivity and composability possible with the [Generative ORC-721 Protocol](https://github.com/ordbase/generative-orc-721) developed by 
-@geraldb. Creators can compose any word/character combination, 5 characters or less, and select a background color using the [btc_words_spritesheet.png](./btc_words_spritesheet.png). The file can then be inscribed using the standard ORC-721 JSON format.
+@geraldb. Creators can compose any word/character combination, 5 characters or less, and select a background color (if desired) using the [btc_words_spritesheet.png](./btc_words_spritesheet.png). Inscriptions are made using the standard ORC-721 JSON format.
 
 
 ## What's New?
-The Generative ORC-721 Protocol lends itself by default to generating a composite of stacked layers creating a unified image, such as a pfp. Words on Bitcoin explores the idea of dispersing the position of the images, in effect creating multiple images, to allow more complex composites - such as words. This is an attempt at maximum customization while working within the stremalined ORC-721 protocol.
+The Generative ORC-721 Protocol lends itself by default to generating a composite of stacked layers formming a unified image, such as a pfp. Words on Bitcoin explores the idea of dispersing the position of the images, effectively creating multiple images, to allow more complex composites - such as words. This is an attempt at maximum customization while working within the stremalined ORC-721 protocol.
 
 
 **Examples (102px x 32px)**
@@ -45,7 +45,7 @@ While this sounds intimidating at first, the logic is as follows:
 
 ![image file](./demo_images/tile0005.png) - Letter tile from Row 6
 
-- By selecting a letter from each row on the spritesheet creators are able to create any combination of 5 characters. Note that there is a special character available in each position. 
+- By selecting a letter from each row on the spritesheet creators can compose any combination of 5 characters. Note that there is a special character available in each position. 
 
 - If no background is selected, the resulting image will be transparent. 
 
