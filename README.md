@@ -75,6 +75,9 @@ Here is a breakdown of one of the example images above (white backgrouond impose
 No character in fifth position
 
 ## How to Inscribe
+
+> **The deploy was inscribed on inscription [#11066199](https://ordinals.com/inscription/ac685db241919af1e5556bfc5a452e40efc961b074d385de750863256272a8aai0)**
+> 
 Words on Bitcoin are inscribed using the standard Generative ORC-721 JSON format. The inscribe file for the example above would be: 
 ```json
 {
