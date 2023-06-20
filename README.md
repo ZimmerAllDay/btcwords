@@ -5,7 +5,7 @@ A collector created ORC-721 project
 
 ## Introduction
 Words on Bitcoin seeks to highlight the interactivity and composability possible with the [Generative ORC-721 Protocol](https://github.com/ordbase/generative-orc-721) developed by 
-@geraldb. Creators can compose any word/character combination, 5 characters or less, and select a background color (if desired) from the [btc_words_spritesheet.png](./btc_words_spritesheet.png). Inscriptions are made using the standard ORC-721 JSON format.
+@geraldb. Creators can compose any word/character combination, 5 characters or less, and select a background color (if desired) from the [spritesheet.png](./spritesheet.png). Inscriptions are made using the standard ORC-721 JSON format.
 
 
 ## What's New?
@@ -20,7 +20,7 @@ The Generative ORC-721 Protocol lends itself by default to generating a composit
 
 
 ## How it Works
-Unlike a typical grid shaped spritesheet (ex. 10 x 10), the [btc_words_spritesheet.png](./btc_words_spritesheet.png) contains 27 columns and 6 rows:
+Unlike a typical grid shaped spritesheet (ex. 10 x 10), the [spritesheet.png](./spritesheet.png) contains 27 columns and 6 rows:
 
 ![image file](./demo_images/btc_words_spritesheet_wtbg.png)
 (white background imposed for visibility)
